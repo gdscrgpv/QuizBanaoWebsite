@@ -1,6 +1,9 @@
+import Navbar from "./components/Navbar";
+
 function App() {
   return (
     <>
+    <Navbar />
   <main>
     {/* Alternative 2 Heading */}
     <header className="header alter2-header section" id="home">
