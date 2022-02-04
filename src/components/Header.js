@@ -4,8 +4,7 @@ export default function Header() {
   return (
     <>
       <header className="header alter2-header section" id="home">
-      <div className="shapes-container">
-          
+        <div className="shapes-container">
           {/* diagonal shapes */}
           <div
             className="shape shape-animated"
@@ -61,7 +60,7 @@ export default function Header() {
             data-aos-duration={1000}
             data-aos-delay={300}
           />
-          
+
           {/* animated shapes */}
           <div className="animation-shape shape-ring animation--clockwise" />
           <div className="animation-shape shape-circle shape-circle-1 animation--anti-clockwise" />
@@ -76,9 +75,6 @@ export default function Header() {
             <div className="animation--rotating" />
           </div>
 
-
-
-          
           {/* static shapes */}
           <div className="static-shape shape-ring-1" />
           <div className="static-shape shape-ring-2" />
@@ -100,18 +96,17 @@ export default function Header() {
             <div className="col-md-6">
               <span className="rounded-pill shadow-box bg-contrast text-dark bold py-2 px-4">
                 <i className="far fa-lightbulb text-primary mr-2" />
-                <span className="text-primary">Awesome</span> Landing Page
+                <span className="text-primary">GDSC UIT RGPV</span> presents
               </span>
               <h1 className="display-4 display-md-2 mt-3">
                 <span className="bold">Quiz Banao</span>
               </h1>
               <p className="lead bold text-primary">
-                Premium Startup &amp;
-                <span className="head-line-2">App Landing Page</span>
+                Live quizzing solution for your Events
               </p>
               <p className="lead">
-                Besides its beautiful design. Quiz Banao is an incredibly rich
-                core framework for you to showcase your App.
+                Hosting webinars or offline events and worried about audience
+                engagement ? No more ...
               </p>
               <nav className="nav my-5">
                 <a
