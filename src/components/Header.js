@@ -4,7 +4,8 @@ export default function Header() {
   return (
     <>
       <header className="header alter2-header section" id="home">
-        <div className="shapes-container">
+      <div className="shapes-container">
+          
           {/* diagonal shapes */}
           <div
             className="shape shape-animated"
@@ -60,6 +61,7 @@ export default function Header() {
             data-aos-duration={1000}
             data-aos-delay={300}
           />
+          
           {/* animated shapes */}
           <div className="animation-shape shape-ring animation--clockwise" />
           <div className="animation-shape shape-circle shape-circle-1 animation--anti-clockwise" />
@@ -73,6 +75,10 @@ export default function Header() {
           <div className="animation-shape shape-diamond animation--anti-clockwise">
             <div className="animation--rotating" />
           </div>
+
+
+
+          
           {/* static shapes */}
           <div className="static-shape shape-ring-1" />
           <div className="static-shape shape-ring-2" />
@@ -87,7 +93,7 @@ export default function Header() {
           {/* main shape */}
           <div className="static-shape background-shape-main" />
           {/* ghost shapes */}
-          <div className="static-shape ghost-shape ghost-shape-1" />
+          {/* <div className="static-shape ghost-shape ghost-shape-1" /> */}
         </div>
         <div className="container">
           <div className="row">
@@ -125,7 +131,7 @@ export default function Header() {
             <div className="col-md-6">
               <div className="iphone front mx-auto">
                 <div className="screen shadow-box">
-                  <img src="img/screens/app/3.png" alt="..." />
+                  <img src="img/screens/app/appsplashscreen.jpg" alt="..." />
                 </div>
                 <div className="notch" />
               </div>
