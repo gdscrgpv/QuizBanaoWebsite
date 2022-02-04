@@ -9,11 +9,10 @@ export default function Footer() {
             <div className="col-md-4 mr-auto">
               <img src="img/logo-light.png" alt="" className="logo" />
               <p>
-                Quiz Banao, a carefully crafted and powerful HTML5 template,
-                it's perfect to showcase your App or Startup
+                  Quiz Banao is a Live quizzing solution for your Events
               </p>
             </div>
-            <div className="col-md-2">
+            {/* <div className="col-md-2">
               <nav className="nav flex-column">
                 <a className="nav-item py-2 text-contrast" href="#">
                   About
@@ -51,21 +50,21 @@ export default function Footer() {
                   Search
                 </a>
               </nav>
-            </div>
+            </div> */}
             <div className="col-md-2">
               <h6 className="py-2 small">Follow us</h6>
               <nav className="nav justify-content-around">
                 <a
-                  href="https://facebook.com/5studios.net"
+                  href="https://gdsc.community.dev/university-institute-of-technology-rgpv-bhopal/"
                   target="_blank"
                   className="btn btn-circle btn-sm brand-facebook"
                 >
-                  <i className="fab fa-facebook" />
+                  <i className="fa fa-globe" />
                 </a>
-                <a href="#" className="btn btn-circle btn-sm brand-twitter">
-                  <i className="fab fa-twitter" />
+                <a href="https://www.linkedin.com/company/gdscuitrgpv/" className="btn btn-circle btn-sm brand-twitter">
+                  <i className="fab fa-linkedin" />
                 </a>
-                <a href="#" className="btn btn-circle btn-sm brand-instagram">
+                <a href="https://instagram.com/gdsc_uitrgpv" className="btn btn-circle btn-sm brand-instagram">
                   <i className="fab fa-instagram" />
                 </a>
               </nav>
@@ -75,8 +74,7 @@ export default function Footer() {
           <div className="row small">
             <div className="col-md-4">
               <p className="mt-2 mb-0 text-center text-md-left">
-                © 2019 <a href="https://5studios.net/">5studios</a>. All Rights
-                Reserved
+                Designed with &hearts; by <a href="https://gdsc.community.dev/university-institute-of-technology-rgpv-bhopal/"> GDSC UIT RGPV</a>
               </p>
             </div>
           </div>
