@@ -1,4 +1,4 @@
-import AdditionalSections from "./components/AdditionalSections";
+import Features from "./components/Features";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Navbar from "./components/Navbar";
@@ -9,7 +9,7 @@ function App() {
       <Navbar />
       <main>
         <Header />
-        <AdditionalSections />
+        <Features />
       </main>
       <Footer />
     </>
