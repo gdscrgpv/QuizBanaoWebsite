@@ -109,7 +109,7 @@ export default function Header() {
               </p>
               <nav className="nav my-5">
                 <a
-                  href="#!"
+                  href="#knowmore"
                   className="btn btn-rounded btn-alternate mr-2 mr-md-5"
                 >
                   Know more <i className="fas fa-long-arrow-alt-right ml-2" />
@@ -118,7 +118,7 @@ export default function Header() {
                   href="#demos"
                   className="btn btn-rounded btn-outline-alternate scrollto"
                 >
-                  Free trial
+                  Download App
                 </a>
               </nav>
             </div>

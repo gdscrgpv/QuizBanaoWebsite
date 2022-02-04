@@ -3,7 +3,7 @@ import React from "react";
 export default function Features() {
   return (
     <>
-      <section className="section features-cant-miss">
+      <section className="section features-cant-miss" id="knowmore">
         <div className="shapes-container overflow-clear">
           <div className="shape shape-circle shape-circle-1">
             <div data-aos="fade-up-left" />
