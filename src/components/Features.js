@@ -28,37 +28,45 @@ export default function Features() {
                 <i className="fas fa-trophy fa-2x text-danger mb-3" />
                 <h2 className="heading-line">Features you can't miss</h2>
               </div>
-              <ul className="list-unstyled">
-                <li className="media flex-column flex-md-row text-center text-md-left">
-                  <i className="mx-auto mr-md-3 mx-auto mr-md-3 accent pe pe-7s-mail pe-3x" />
-                  <div className="media-body mt-3 mt-md-0">
-                    <h5 className="bold mt-0 mb-1">Mail Management</h5>
-                    <p className="m-0">
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                      Amet aut autem eum laudantium quas recusandae repellendus
-                      voluptate.
+              <ul class="list-unstyled">
+                <li class="media flex-column flex-md-row text-center text-md-left">
+                  <i class="mx-auto mr-md-3 mx-auto mr-md-3 accent pe pe-7s-mail pe-3x"></i>
+                  <div class="media-body mt-3 mt-md-0">
+                    <h5 class="bold mt-0 mb-1">Live Quizzes</h5>
+                    <p class="m-0">
+                      On our platform you can host live quizzes for your
+                      events/webinars
                     </p>
                   </div>
                 </li>
-                <li className="media flex-column flex-md-row text-center text-md-left mt-4">
-                  <i className="mx-auto mr-md-3 mx-auto mr-md-3 accent pe pe-7s-users pe-3x" />
-                  <div className="media-body mt-3 mt-md-0">
-                    <h5 className="bold mt-0 mb-1">Customers Tracking</h5>
-                    <p className="m-0">
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                      Amet aut autem eum laudantium quas recusandae repellendus
-                      voluptate.
+                <li class="media flex-column flex-md-row text-center text-md-left mt-4">
+                  <i class="mx-auto mr-md-3 mx-auto mr-md-3 accent pe pe-7s-users pe-3x"></i>
+                  <div class="media-body mt-3 mt-md-0">
+                    <h5 class="bold mt-0 mb-1">Awesome leaderboard</h5>
+                    <p class="m-0">
+                      Users can track quizzes with an awesome real time
+                      leaderboard
                     </p>
                   </div>
                 </li>
-                <li className="media flex-column flex-md-row text-center text-md-left mt-4">
-                  <i className="mx-auto mr-md-3 mx-auto mr-md-3 accent pe pe-7s-graph1 pe-3x" />
-                  <div className="media-body mt-3 mt-md-0">
-                    <h5 className="bold mt-0 mb-1">Advanced Reporting</h5>
-                    <p className="m-0">
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                      Amet aut autem eum laudantium quas recusandae repellendus
-                      voluptate.
+                <li class="media flex-column flex-md-row text-center text-md-left mt-4">
+                  <i class="mx-auto mr-md-3 mx-auto mr-md-3 accent pe pe-7s-graph1 pe-3x"></i>
+                  <div class="media-body mt-3 mt-md-0">
+                    <h5 class="bold mt-0 mb-1">Detailed tracking</h5>
+                    <p class="m-0">
+                      Track how much time a candidate spent on a particular
+                      question and get data to asses the candidates strengths
+                      and weaknesses
+                    </p>
+                  </div>
+                </li>
+                <li class="media flex-column flex-md-row text-center text-md-left mt-4">
+                  <i class="mx-auto mr-md-3 mx-auto mr-md-3 accent pe pe-7s-graph1 pe-3x"></i>
+                  <div class="media-body mt-3 mt-md-0">
+                    <h5 class="bold mt-0 mb-1">Easy management</h5>
+                    <p class="m-0">
+                      Create and manage quizzes with our multi functionality
+                      admin panel.
                     </p>
                   </div>
                 </li>
