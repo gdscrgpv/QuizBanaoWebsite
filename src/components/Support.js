@@ -39,7 +39,7 @@ export default function Support() {
                     support@quizbanao.com
                   </a>
                   <p className="mt-4">
-                  Found some unexpected behavior in the app? Do report it to us at the mail above. Thanks :)
+                  Found some unexpected behavior in the app? Do report it to us at the mail above
                   </p>
                 </div>
               </div>
