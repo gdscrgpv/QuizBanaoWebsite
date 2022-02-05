@@ -12,16 +12,15 @@ export default function Support() {
                   <i className="pe pe-7s-cash pe-3x" />
                 </div>
                 <div className="media-body">
-                  <h4 className="text-primary">Contact Sales</h4>
+                  <h4 className="text-primary">Want to Host a Quiz?</h4>
                   <a
                     href="mailto:support@5studios.net"
                     className="more-link d-flex align-items-center mt-0"
                   >
-                    sales@5studios.net
+                    hi@quizbanao.com
                   </a>
                   <p className="mt-4">
-                    Looking for a custom quote? Need to tell us more about your
-                    project? Want a demonstration? Drop us a line
+                  If you wish to host a quiz simply drop us a message we'd be happy to help you out.
                   </p>
                 </div>
               </div>
@@ -32,16 +31,15 @@ export default function Support() {
                   <i className="pe pe-7s-help2 pe-3x" />
                 </div>
                 <div className="media-body">
-                  <h4 className="text-primary">Technical Support</h4>
+                  <h4 className="text-primary">Bug Report</h4>
                   <a
                     href="mailto:support@5studios.net"
                     className="more-link d-flex align-items-center mt-0"
                   >
-                    support@5studios.net
+                    support@quizbanao.com
                   </a>
                   <p className="mt-4">
-                    Any question about how to integrate your product?. Don't
-                    fret, our geek team is ready for you.
+                  Found some unexpected behavior in the app? Do report it to us at the mail above. Thanks :)
                   </p>
                 </div>
               </div>
