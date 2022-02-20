@@ -23,8 +23,8 @@ export default function Navbar() {
         </div>
         <ul className="nav navbar-nav ml-auto">
           <li className="nav-item">
-            <a className="nav-link scrollto" href="javascript:void(0)" onClick={() => {alert("App will be Uploaded Soon")} }>
-              Download APK
+            <a className="nav-link scrollto" href="https://web.quizbanao.com">
+              Visit App
             </a>
           </li>
         </ul>

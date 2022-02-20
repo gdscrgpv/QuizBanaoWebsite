@@ -116,10 +116,10 @@ export default function Header() {
                   Know more <i className="fas fa-long-arrow-alt-right ml-2" />
                 </a>
                 <a
-                  href="#demos"
+                  href="https://web.quizbanao.com"
                   className="btn btn-rounded btn-outline-alternate scrollto"
                 >
-                  Download App
+                  Visit App
                 </a>
               </nav>
             </div>
