@@ -116,10 +116,10 @@ export default function Header() {
                   Know more <i className="fas fa-long-arrow-alt-right ml-2" />
                 </a>
                 <a
-                  href="https://web.quizbanao.com"
+                  href="https://play.google.com/store/apps/details?id=com.quizbanao.app"
                   className="btn btn-rounded btn-outline-alternate scrollto"
                 >
-                  Visit App
+                  Download App
                 </a>
               </nav>
             </div>

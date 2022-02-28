@@ -23,8 +23,8 @@ export default function Navbar() {
         </div>
         <ul className="nav navbar-nav ml-auto">
           <li className="nav-item">
-            <a className="nav-link scrollto" href="https://web.quizbanao.com">
-              Visit App
+            <a className="nav-link scrollto" href="https://play.google.com/store/apps/details?id=com.quizbanao.app">
+              Download App
             </a>
           </li>
         </ul>
